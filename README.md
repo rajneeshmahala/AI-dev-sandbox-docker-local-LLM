@@ -67,3 +67,7 @@ ollama pull llama3
 - AI isolated from host
 - Only project folder mounted
 - Containers reset anytime
+
+```
+Dev By : Rajneesh Mahala❤️
+```
