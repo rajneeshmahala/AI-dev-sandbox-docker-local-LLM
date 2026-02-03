@@ -1,0 +1,13 @@
+{
+  "name": "AI Dev Sandbox",
+  "image": "ubuntu:22.04",
+  "postCreateCommand": "apt update && apt install -y curl git",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-azuretools.vscode-docker",
+        "continue.continue"
+      ]
+    }
+  }
+}
